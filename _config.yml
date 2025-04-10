@@ -1,0 +1,46 @@
+title: "Danielle Land"
+name: "Danielle Land"
+email: "danielleland@ku.edu"
+description: >-
+  I'm a PhD student at the University of Kansas studying phylogenomics and the evolutionary history of mammals.
+url: "https://danielle-land.github.io"
+repository: "danielle-land/danielle-land.github.io"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+author:
+  name: "Danielle Land"
+  avatar: "/assets/images/profile.png"
+  bio: "Mammalogist | PhD Student @ KU"
+  location: "Lawrence, Kansas"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:danielleland@ku.edu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/danielle-land"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/_danielleland"
+
+# Optional: Navigation menu
+nav:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Contact"
+    url: /contact/
+  - title: "Blog"
+    url: /blog/
+    
+
+theme: minimal-mistakes-jekyll
