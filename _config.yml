@@ -33,4 +33,8 @@ author:
 
 # Add header navigation tabs
 header_pages:
+  - index.md
   - about.md
+  - cv.md
+  - research.md
+  - contact.md
