@@ -12,7 +12,7 @@ header:
 excerpt: >
   Hi! I’m Danielle, a mammalogist and evolutionary biologist at KU.
 feature_row:
-  - image_path: /assets/images/research.jpg
+  - image_path: /assets/images/research.png
     title: "Research"
     excerpt: "Learn about my research integrating phylogenomic data and ecological niche models to understand diversification and biogeographic patterns in Eurasian shrews."
     url: "/research/"
