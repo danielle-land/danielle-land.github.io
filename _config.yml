@@ -12,14 +12,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-  
-minimal_mistakes_skin: default
-locale: en-US
-include:
-  - _pages
-
-# Force nav bar to render
-show_nav: true
 
 show_author: true
 
@@ -39,7 +31,6 @@ author:
       icon: "fab fa-twitter"
       url: "https://twitter.com/_danielleland"
 
-# Add header navigation tabs
 header_pages:
   - index.md
   - about.md
