@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: default
 title: "Welcome"
 permalink: /
 header:
