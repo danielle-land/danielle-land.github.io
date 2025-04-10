@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: "Welcome"
 permalink: /
 header:
@@ -11,11 +11,5 @@ header:
       url: "/about/"
 excerpt: >
   Hi! I’m Danielle, a mammalogist and evolutionary biologist at KU.
-feature_row:
-  - image_path: /assets/images/research.png
-    title: "Research"
-    excerpt: "Learn about my research integrating phylogenomic data and ecological niche models to understand diversification and biogeographic patterns in Eurasian shrews."
-    url: "/research/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
+
