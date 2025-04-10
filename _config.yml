@@ -13,6 +13,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+show_author: true
+
 author:
   name: "Danielle Land"
   avatar: "/assets/images/profile.png"

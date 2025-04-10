@@ -2,6 +2,7 @@
 layout: single
 title: "About Me"
 permalink: /about/
+author_profile: true
 ---
 
 I'm a PhD student in Ecology and Evolutionary Biology at the University of Kansas.  
