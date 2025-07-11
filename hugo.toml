@@ -1,0 +1,25 @@
+baseURL = "https://danielle-land.github.io/"
+languageCode = "en-us"
+title = "Danielle M. Land"
+theme = "ananke"
+
+# Configure menu (top navigation)
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 3
