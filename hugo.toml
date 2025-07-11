@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Danielle M. Land"
 theme = "ananke"
 
+[params]
+  background = "danielle_header.png"
+
 # Configure menu (top navigation)
 [menu]
 
