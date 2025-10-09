@@ -62,9 +62,9 @@ author:
   avatar: "/assets/images/DML_profile.png"
   bio: "PhD Student at the University of Kansas"
   links:
-    # - label: "X"
-    #   icon: "fa-brands fa-square-x-twitter"
-    #   url: "https://x.com/_danielleland"
+    - label: "X"
+      icon: "fa-brands fa-square-x-twitter"
+      url: "https://x.com/_danielleland"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/danielle-land"
@@ -74,9 +74,9 @@ author:
 
 footer:
   links:
-    # - label: "X"
-    #   icon: "fa-brands fa-square-x-twitter"
-    #   url: "https://x.com/_danielleland"
+    - label: "X"
+      icon: "fa-brands fa-square-x-twitter"
+      url: "https://x.com/_danielleland"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/danielle-land"
