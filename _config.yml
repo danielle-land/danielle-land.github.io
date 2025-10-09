@@ -65,24 +65,24 @@ author:
     #- label: "X"
     #  icon: "fa-brands fa-square-x-twitter"
     #  url: "https://x.com/_danielleland"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/danielle-land"
-    #- label: "Linkedin"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://www.linkedin.com/in/danielle-land-05628a237/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/danielle-land"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.linkedin.com/in/danielle-land-05628a237/"
 
 footer:
   links:
    #- label: "X"
    #   icon: "fa-brands fa-square-x-twitter"
    #   url: "https://x.com/_danielleland"
-   #- label: "GitHub"
-   #   icon: "fab fa-fw fa-github"
-   #   url: "https://github.com/danielle-land"
-   # - label: "Linkedin"
-   #   icon: "fab fa-fw fa-instagram"
-   #   url: "https://www.linkedin.com/in/danielle-land-05628a237/"
+   - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/danielle-land"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.linkedin.com/in/danielle-land-05628a237/"
 
 defaults:
   # _posts
