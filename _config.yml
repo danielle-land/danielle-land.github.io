@@ -58,30 +58,30 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Danielle M. Land"
-  avatar : "/assets/images/DML_profile.png"
-  bio    : "PhD Student at the University of Kansas"
+  name: "Danielle M. Land"
+  avatar: "/assets/images/DML_profile.png"
+  bio: "PhD Student at the University of Kansas"
   links:
-    #- label: "X"
-    #  icon: "fa-brands fa-square-x-twitter"
-    #  url: "https://x.com/_danielleland"
+    # - label: "X"
+    #   icon: "fa-brands fa-square-x-twitter"
+    #   url: "https://x.com/_danielleland"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/danielle-land"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-instagram"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/danielle-land-05628a237/"
 
 footer:
   links:
-   #- label: "X"
-   #   icon: "fa-brands fa-square-x-twitter"
-   #   url: "https://x.com/_danielleland"
-   - label: "GitHub"
+    # - label: "X"
+    #   icon: "fa-brands fa-square-x-twitter"
+    #   url: "https://x.com/_danielleland"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/danielle-land"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-instagram"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/danielle-land-05628a237/"
 
 defaults:
