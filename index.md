@@ -4,6 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+header:
+  image: /assets/images/page_header.png  
+  caption: "Photo: Trampas Lakes, Carson NF, NM"
 ---
 I am a **Ph.D. student** in the Department of Ecology and Evolutionary Biology at the **University of Kansas**, where I work in the **Colella Lab of Evolutionary & Ecological Genomics** and the **KU Natural History Museum & Biodiversity Institute**.  
 
