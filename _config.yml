@@ -111,6 +111,11 @@ defaults:
       layout: single
       author_profile: true
 
+collections:
+  fieldwork:
+    output: true
+    permalink: /fieldwork/:title/
+
 category_archive:
   type: liquid
   path: /categories/
