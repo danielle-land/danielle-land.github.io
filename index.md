@@ -5,8 +5,8 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/header_photo_3.JPG  
-  caption: "Photo: Ice Lakes, San Juan Mountains, CO"
+  image: /assets/images/header_photo_4.jpg  
+  caption: "Photo: Chilkat State Park, Alaska (2022)"
 ---
 **Hello and welcome!**
 
