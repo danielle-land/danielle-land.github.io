@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/header_photo_4.jpg  
+  image: /assets/images/header_photo.png  
   caption: "Photo: Chilkat State Park, Alaska (2022)"
 ---
 **Hello and welcome!**
