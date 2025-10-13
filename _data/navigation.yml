@@ -1,6 +1,8 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Fieldwork"
+    url: /fieldwork/
   - title: "Projects"
     url: /Projects/
   - title: "CV"
