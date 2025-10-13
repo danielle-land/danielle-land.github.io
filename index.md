@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/page_header_3.JPG  
+  image: /assets/images/header_photo_3.JPG  
   caption: "Photo: Ice Lakes, San Juan Mountains, CO"
 ---
 **Hello and welcome!**
