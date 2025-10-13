@@ -5,9 +5,11 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/page_header_2.jpg  
-  caption: "Photo: Trampas Lakes, Carson NF, NM"
+  image: /assets/images/page_header_3.JPG  
+  caption: "Photo: Ice Lakes, San Juan Mountains, CO"
 ---
+**Hello and welcome!**
+
 I am a **Ph.D. student** in the Department of Ecology and Evolutionary Biology at the **University of Kansas**, where I work in the **Colella Lab of Evolutionary & Ecological Genomics** and the **KU Natural History Museum & Biodiversity Institute**.  
 
 My research explores the intersections of **evolutionary biology, parasitology, and museum-based science** to understand how mammals and their parasites respond to environmental and anthropogenic changes.  
