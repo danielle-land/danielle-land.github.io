@@ -6,7 +6,7 @@ collection: fieldwork
 entries_layout: grid
 classes: wide
 header:
-  overlay_image: /assets/images/field_banner.jpg
+  overlay_image: /assets/images/field_banner.png
   overlay_filter: 0.3
   tagline: "Stories and notes from the field"
 ---
