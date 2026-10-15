@@ -1,10 +1,12 @@
 main:
-  - title: "Blog"
-    url: /blog/
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
   - title: "Fieldwork"
     url: /fieldwork/
-  - title: "Projects"
-    url: /Projects/
+  - title: "Blog"
+    url: /blog/
   - title: "CV"
     url: /cv/
   - title: "Contact"

@@ -1,23 +1,70 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
+layout: splash
+title: "Danielle M. Land"
+permalink: /
 header:
-  image: /assets/images/header_image.png  
+  overlay_image: /assets/images/header_image.png
+  overlay_filter: 0.3
   caption: "Photo: Chilkat State Park, Alaska (2022)"
+  tagline: "Evolutionary biologist and museum scientist at the University of Kansas"
+  actions:
+    - label: "About"
+      url: "/about/"
+    - label: "Research"
+      url: "/research/"
+    - label: "Fieldwork"
+      url: "/fieldwork/"
+    - label: "Blog"
+      url: "/blog/"
+feature_row:
+  - image_path: /assets/images/about_card.png
+    alt: "About Me"
+    title: "About Me"
+    excerpt: "Learn more about my background, scientific journey, and research philosophy."
+    url: "/about/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/research_card.png
+    alt: "Research"
+    title: "Research"
+    excerpt: "Studying evolutionary genomics, adaptation, and host–parasite relationships."
+    url: "/research/"
+    btn_label: "Learn more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/fieldwork_card.jpg
+    alt: "Fieldwork"
+    title: "Fieldwork"
+    excerpt: "Exploring biodiversity through museum collections."
+    url: "/fieldwork/"
+    btn_label: "See stories"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/blog_card.jpg
+    alt: "Blog"
+    title: "Notes & Reflections"
+    excerpt: "Personal essays, field updates, and reflections on science and the times."
+    url: "/blog/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/cv_card.jpg
+    alt: "Curriculum Vitae"
+    title: "Curriculum Vitae"
+    excerpt: "View my academic CV, including publications, presentations, and field experience."
+    url: "/cv/"
+    btn_label: "View CV"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/contact_card.jpg
+    alt: "Contact"
+    title: "Contact"
+    excerpt: "Get in touch about collaborations, museum work, or field opportunities."
+    url: "/contact/"
+    btn_label: "Say hello"
+    btn_class: "btn--primary"
 ---
-**Hello and welcome!**
+### Welcome!
 
-I am a **Ph.D. student** in the Department of Ecology and Evolutionary Biology at the **University of Kansas**, where I work in the **Colella Lab of Evolutionary & Ecological Genomics** and the **KU Natural History Museum & Biodiversity Institute**.  
+I’m a **Ph.D. student** in Ecology and Evolutionary Biology at the **University of Kansas**,  
+where I study the intersection of **evolutionary biology, parasitology, and natural history collections**.
 
-My research explores the intersections of **evolutionary biology, parasitology, and museum-based science** to understand how mammals and their parasites respond to environmental and anthropogenic changes.  
+My work combines **museum-based science** with **genomic tools** to explore how mammals and their parasites adapt to environmental change.
 
-**Research interests include:**
-- Biogeography and phylogenetics  
-- Host–parasite relationships  
-- Adaptation to changing climates  
-- Integrative conservation genomics  
-- Museum specimen-based research  
-- Environmental and animal ethics  
+{% include feature_row %}
