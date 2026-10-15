@@ -17,7 +17,7 @@ header:
     - label: "Blog"
       url: "/blog/"
 feature_row:
-  - image_path: /assets/images/about_card.png
+  - image_path: /assets/images/scope_card.png
     alt: "About Me"
     title: "About Me"
     excerpt: "Learn more about my background, scientific journey, and research philosophy."
@@ -31,7 +31,7 @@ feature_row:
     url: "/research/"
     btn_label: "Learn more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/fieldwork_card.jpg
+  - image_path: /assets/images/fieldwork_card.png
     alt: "Fieldwork"
     title: "Fieldwork"
     excerpt: "Exploring biodiversity through museum collections."
@@ -40,8 +40,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/blog_card.jpg
     alt: "Blog"
-    title: "Notes & Reflections"
-    excerpt: "Personal essays, field updates, and reflections on science and the times."
+    title: "Blog Spot"
+    excerpt: "Personal thoughts about current events and happenings."
     url: "/blog/"
     btn_label: "Read more"
     btn_class: "btn--primary"
@@ -55,16 +55,14 @@ feature_row:
   - image_path: /assets/images/contact_card.jpg
     alt: "Contact"
     title: "Contact"
-    excerpt: "Get in touch about collaborations, museum work, or field opportunities."
+    excerpt: "Get in touch!"
     url: "/contact/"
     btn_label: "Say hello"
     btn_class: "btn--primary"
 ---
 ### Welcome!
 
-I’m a **Ph.D. student** in Ecology and Evolutionary Biology at the **University of Kansas**,  
-where I study the intersection of **evolutionary biology, parasitology, and natural history collections**.
-
-My work combines **museum-based science** with **genomic tools** to explore how mammals and their parasites adapt to environmental change.
+I’m a **Ph.D. student** in Ecology and Evolutionary Biology at the **University of Kansas**.
+My work combines **museum-based science** with **genomic methods** to explore how mammals and their parasites adapt to environmental change.
 
 {% include feature_row %}

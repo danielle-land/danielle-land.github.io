@@ -11,8 +11,9 @@ header:
   tagline: "Stories and notes from the field"
 ---
 
-Every season brings new discoveries — from mountain valleys to desert plateaus.  
-This section documents ongoing field expeditions, specimen collecting trips, and life in the field.
+As a graduate student at the KU Biodiversity Institute, I spend a lot of time in the field!
 
-Each entry highlights the process of fieldwork, from preparation and collection to the broader questions that drive our research.
+Yes, that means sleeping in a tent regardless of the weather and going days (or sometimes weeks) without a shower. **BUT** it also means exploring incredible places, encountering all kinds of critters, and meeting some truly wonderful people along the way. And I wouldn't trade any of it for the world.
+
+I'd love to share a little bit of those experiences with you here! ✷
 

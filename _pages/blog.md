@@ -1,13 +1,14 @@
 ---
 layout: single
-title: "Notes & Reflections"
+title: "Blog Spot"
 permalink: /blog/
 author_profile: true
+header:
+  overlay_image: /assets/blog/blog_banner.jpg
+  overlay_filter: 0.3
 ---
 
-A space for thoughts, observations, things I'm learning, and whatever else is on my mind.
-
-Not everything here needs to be a polished research update.
+A space for me to share some of my thoughts about current happenings and events (opinions are my own)!
 
 ---
 
